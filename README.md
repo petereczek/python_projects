@@ -1,2 +1,2 @@
 # python_projects
-A directory containing some sample Python projects.
+A directory containing some of my sample Python projects.
