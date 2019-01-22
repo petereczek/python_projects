@@ -1,4 +1,5 @@
-'''Program which prompts the user for a word and returns its dictionary definition if the word is contained in dictionary. If it is not, the program finds the words most closely matching the input word and prompts the user for confirmation'''
+'''Program which prompts the user for a word and returns its dictionary definition if the word is contained in dictionary. 
+If it is not, the program finds the words most closely matching the input word and prompts the user for confirmation'''
 
 #import necessary libraries
 
